@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pawan Raj</h1>
-<h3 align="center">A passionate Android developer from India</h3>
+<h3 align="center">A passionate Android developer 📚 from India</h3>
+<h3 align="center">I'm a 
+    🎓 Computer Science & Engineering Sophomore at
+     <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
+<h3 align="center">Android Developer at
+    <a href="https://cyberlabs.club">Cyber Labs</a>.<br></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfpawanraj&label=Profile%20views&color=0e75b6&style=flat" alt="myselfpawanraj" /> </p>
 
 - 📫 How to reach me **iampawan17@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1pLlGknOu7dBNKXiC4n55XFPamLjSWweR/view?usp=sharing](https://drive.google.com/file/d/1pLlGknOu7dBNKXiC4n55XFPamLjSWweR/view?usp=sharing)
+- 📄 Know about my experiences >> [Resume](https://drive.google.com/file/d/1pLlGknOu7dBNKXiC4n55XFPamLjSWweR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
