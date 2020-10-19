@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfpawanraj&label=Profile%20views&color=0e75b6&style=flat" alt="myselfpawanraj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=myselfpawanraj" alt="myselfpawanraj" /></a> </p>
-
 - 📫 How to reach me **iampawan17@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1pLlGknOu7dBNKXiC4n55XFPamLjSWweR/view?usp=sharing](https://drive.google.com/file/d/1pLlGknOu7dBNKXiC4n55XFPamLjSWweR/view?usp=sharing)
