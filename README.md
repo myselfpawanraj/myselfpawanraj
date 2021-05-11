@@ -1,14 +1,11 @@
-<h1 align="center">Hi 👋, I'm Pawan Raj</h1>
+<h1 align="center">Hi 👋🏻, I'm Pawan Raj</h1>
 <h3 align="center">A passionate developer 📚 from India</h3>
 <h3 align="center">I'm a 
     🎓 Computer Science & Engineering Sophomore at
      <a href="https://www.iitism.ac.in/">IIT (ISM) Dhanbad</a></h3>
 <h3 align="center">Android Developer at
     <a href="https://cyberlabs.club">Cyber Labs</a>.<br></h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfpawanraj&label=Profile%20views&color=0e75b6&style=flat" alt="myselfpawanraj" /> </p>
-
-<p align="left"> <a href="https://twitter.com/myselfpawanraj" target="blank"><img src="https://img.shields.io/twitter/follow/myselfpawanraj?logo=twitter&style=for-the-badge" alt="myselfpawanraj" /></a> </p>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350" height="350"/>
 
 - 📫 How to reach me **iampawan17@gmail.com**
 
@@ -30,3 +27,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=myselfpawanraj&show_icons=true&locale=en" alt="myselfpawanraj" /></p>
 
+--- 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting and networking with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> :)</em><br/> 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfpawanraj&label=Profile%20views&color=0e75b6&style=flat" alt="myselfpawanraj" /> </p>
+<p align="left"> <a href="https://twitter.com/myselfpawanraj" target="blank"><img src="https://img.shields.io/twitter/follow/myselfpawanraj?logo=twitter&style=for-the-badge" alt="myselfpawanraj" /></a> </p>
