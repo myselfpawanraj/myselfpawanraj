@@ -31,4 +31,9 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love interacting and networking with different people</b> so if you want to say <b>hi, I'll be happy to connect with you!</b> :)</em><br/> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfpawanraj&label=Profile%20views&color=0e75b6&style=flat" alt="myselfpawanraj" /> </p>
-<p align="left"> <a href="https://twitter.com/myselfpawanraj" target="blank"><img src="https://img.shields.io/twitter/follow/myselfpawanraj?logo=twitter&style=for-the-badge" alt="myselfpawanraj" /></a> </p>
+<h1 align="left"> 
+    <a href="https://www.linkedin.com/in/myselfpawanraj">
+    <img src="https://img.shields.io/badge/-Pawan Raj-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myselfpawanraj"/></a>
+    <a href="mailto:iampawan17@gmail.com">
+    <img src="https://img.shields.io/badge/-iampawan17@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iampawan17@gmail.com"/></a>
+</h1>
